@@ -19,7 +19,7 @@ public class Main {
         Person p3 = p2;
         System.out.println(p2.equals(p3));
 
-        System.out.println("Extra");
+        System.out.println("TEST");
     }
 }
 
